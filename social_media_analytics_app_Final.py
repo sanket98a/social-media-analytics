@@ -31,8 +31,8 @@ from PIL import Image
 
 
 
-image = Image.open(r"C:\Users\humant\Desktop\logo.png")
-st.image(image, use_column_width=None, width=200, clamp=True)
+# image = Image.open(r"C:\Users\humant\Desktop\logo.png")
+# st.image(image, use_column_width=None, width=200, clamp=True)
 st.markdown("""
 <div style='text-align: center;'>
 <h2 style='font-size: 50px; font-family: Arial, sans-serif; 
